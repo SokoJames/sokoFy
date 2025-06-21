@@ -15,7 +15,7 @@
 - [Usage](#Usage)
 
 ## Dependencies
-**NOTE:** Keep all the files in the same folder sokonalysis-main for it to execute without any issues, failure to that you will need to install the dependancies on your machine, that includes;
+**NOTE:** Keep all the files in the same folder sokoFy-windows for it to execute without any issues, failure to that you will need to install the dependancies on your machine, that includes;
 1. `libgcc_s_seh-1.dll`
 2. `libstdc++-6.dll`
 3. `libwinpthread-1.dll`
