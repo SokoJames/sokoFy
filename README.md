@@ -7,7 +7,7 @@
 ###### Wi-Fi 4-Way Handshake Simulator  
 
 ## About
-
+Is a lightweight educational simulator that visually demonstrates the WPA2 Wi-Fi 4-way handshake process. Designed for cybersecurity and networking students, it helps you understand how authentication and key exchange work between a client (STA) and an access point (AP) in a secure wireless network.
 
 ## Table of Content
 - [Dependencies](#Dependencies)
