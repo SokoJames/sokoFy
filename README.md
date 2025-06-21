@@ -29,5 +29,5 @@ Is a lightweight educational simulator that visually demonstrates the WPA2 Wi-Fi
 
 ## Usage
 ### The 4-Way Handshake Phase <br>
-<img width="464" alt="Image" src="https://github.com/user-attachments/assets/f002d0f0-5535-4ee3-9d6f-6375d4db9f02" />
+<img width="464" alt="Image" src="https://github.com/user-attachments/assets/f002d0f0-5535-4ee3-9d6f-6375d4db9f02" /> <br>
 <img width="469" alt="Image" src="https://github.com/user-attachments/assets/8a271db3-1177-427f-b1b9-2e633aff5433" />
