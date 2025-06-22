@@ -46,3 +46,14 @@ Is a lightweight educational simulator that visually demonstrates the WPA2 Wi-Fi
 #### New device with wrong password
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/128ceb13-457d-4459-bf23-c128cbecfe52" />
 
+#### New device with correct password  <br>
+Notice that the device is not connected to the internet but after a successful 4-way handshake the device is connect, this applies to a secured network with a correct password and open Wi-Fi network. <br>
+<img width="46" alt="Image" src="https://github.com/user-attachments/assets/31ca1ea3-1fc1-4718-9bad-1048481005a4" />
+<img width="46" alt="Image" src="https://github.com/user-attachments/assets/c20855e0-5235-4f5b-b40e-ae73d8380b0b" />
+<img width="442" alt="Image" src="https://github.com/user-attachments/assets/23b045c8-222e-4e82-9031-c3caf359c67f" />
+
+### Credits 
+**NOTE** that this is not an official project but just an assignment for Wireless Security (CYS331) offered at Kapasa Makasa University under the program of Cyber Security. Special thanks to our lecturer Mr. Zilani Kaluba for this wonderfull oportunity to research and understand more about wireless communications, specifically on the 4-way handshake, if you can across this repository hope it helps and don't forget to share.
+
+
+
