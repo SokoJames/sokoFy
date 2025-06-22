@@ -34,3 +34,11 @@ Is a lightweight educational simulator that visually demonstrates the WPA2 Wi-Fi
 
 ### Simulated 4-way handshake (Hidden Network)
 <img width="679" alt="Image" src="https://github.com/user-attachments/assets/77a5b8fd-a818-404d-af7b-bc56ae1517c3" />
+
+### Network Adapters and Available Wi-Fi Networks  <br>
+<img width="450" alt="Image" src="https://github.com/user-attachments/assets/181f1a10-8f09-4199-8a79-aca5b11b443d" /> <br>
+<img width="454" alt="Image" src="https://github.com/user-attachments/assets/8fd1c78a-74c1-4c28-a242-bb85418bed8a" />
+
+### Simulated 4-way handshake <br>
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/8ac4bb6a-1cc2-492f-b71c-10709a6ef444" />
+
