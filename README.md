@@ -42,3 +42,7 @@ Is a lightweight educational simulator that visually demonstrates the WPA2 Wi-Fi
 ### Simulated 4-way handshake <br>
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/8ac4bb6a-1cc2-492f-b71c-10709a6ef444" />
 
+### Actual 4-way handshake <br>
+#### New device with wrong password
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/128ceb13-457d-4459-bf23-c128cbecfe52" />
+
