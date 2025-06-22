@@ -13,6 +13,7 @@ Is a lightweight educational simulator that visually demonstrates the WPA2 Wi-Fi
 - [Dependencies](#Dependencies)
 - [Installation](#Installation)
 - [Usage](#Usage)
+- [Credits](#Credits)
 
 ## Dependencies
 **NOTE:** Keep all the files in the same folder sokoFy-windows for it to execute without any issues, failure to that you will need to install the dependancies on your machine, that includes;
